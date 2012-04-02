@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gifts for Myself
-category: finance
+category: shopping
 tags: [shopping]
 ---
 {% include JB/setup %}

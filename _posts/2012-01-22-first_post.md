@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post
-category: books
+category: reading
 tags: [reading]
 ---
 {% include JB/setup %}
