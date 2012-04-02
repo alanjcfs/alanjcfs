@@ -4,6 +4,7 @@ title: First Post
 category: books
 tags: [reading]
 ---
+{% include JB/setup %}
 
 # Dr. Jekyll and Mr. Hyde
 

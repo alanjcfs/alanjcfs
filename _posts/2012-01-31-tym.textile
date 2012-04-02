@@ -4,6 +4,7 @@ title: Learning Ruby
 category: ruby
 tags: [programming, practice, ruby]
 ---
+{% include JB/setup %}
 
 h1. Learning Ruby
 

@@ -4,6 +4,7 @@ title: Gifts for Myself
 category: finance
 tags: [shopping]
 ---
+{% include JB/setup %}
 
 h1. With my reward points
 

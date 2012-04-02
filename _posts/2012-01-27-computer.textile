@@ -4,6 +4,7 @@ title: Casey's PC
 category: computer
 tags: [computer]
 ---
+{% include JB/setup %}
 
 h1. Casey's PC
 

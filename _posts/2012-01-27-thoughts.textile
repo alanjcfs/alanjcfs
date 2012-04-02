@@ -4,6 +4,7 @@ title: Musings
 category: writing
 tags: [writing, me]
 ---
+{% include JB/setup %}
 
 h1. Thoughts.
 
