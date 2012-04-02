@@ -1,0 +1,15 @@
+---
+layout: post
+title: Musings
+category: writing
+tags: [writing, me]
+---
+
+h1. Thoughts.
+
+I didn't sleep very well last night, and I know why. I didn't drink enough water,
+I woke up repeatedly with some thirst. I didn't get full sleep, including dreams.
+That is why I am feeling tired tonight.
+
+I am going to Macworld/iWorld, where I think the name change will only confuse people
+who already do not know how to spell Macworld (i.e. capitalizing the double-u).

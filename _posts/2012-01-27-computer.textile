@@ -1,0 +1,11 @@
+---
+layout: post
+title: Casey's PC
+category: computer
+tags: [computer]
+---
+
+h1. Casey's PC
+
+I am annoyed to find out that Casey's Independent Living Skills counselor, is a practical
+madman.

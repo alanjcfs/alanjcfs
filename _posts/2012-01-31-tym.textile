@@ -1,0 +1,12 @@
+---
+layout: post
+title: Learning Ruby
+category: ruby
+tags: [programming, practice, ruby]
+---
+
+h1. Learning Ruby
+
+I can call @tym = Time.new(2012, 10, 31)@ and then
+@now = Time.now@
+@tym.yday - now.yday@
