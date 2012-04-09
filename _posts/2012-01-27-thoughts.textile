@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Musings
-category: writing
+category: personal
 tags: [writing, me]
 ---
 {% include JB/setup %}

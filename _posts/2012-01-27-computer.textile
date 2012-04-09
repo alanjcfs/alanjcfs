@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Casey's PC
-category: computer
+category: social
 tags: [computer]
 ---
 {% include JB/setup %}

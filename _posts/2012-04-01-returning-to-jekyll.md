@@ -2,7 +2,7 @@
 layout: post
 title: "Returning to Jekyll"
 description: "Describing the process of moving to Jekyll 0.2"
-category: jekyll
+category: coding
 tags: [jekyll, bootstrap, setup]
 ---
 {% include JB/setup %}

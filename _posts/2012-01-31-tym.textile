@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Ruby
-category: ruby
+category: coding
 tags: [programming, practice, ruby]
 ---
 {% include JB/setup %}
