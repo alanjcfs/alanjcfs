@@ -12,14 +12,15 @@ One way in which the Python community and Ruby community views object orientatio
 differently is in scope.
 
 In Python:
-    >>> name = "Alan"
-    >>> def print_name():
-    ...     print name
-    ...
-    >>> print_name()
+
+    name = "Alan"
+    def print_name():
+        print name
+    print_name()
     Alan
 
 In Ruby, however, you must pass the variable to the name (in IRB):
+
     variable = "Alan"
      > def print_name name
     ?>   print name
@@ -28,7 +29,8 @@ In Ruby, however, you must pass the variable to the name (in IRB):
      Alan => nil
 
 Otherwise, you would get
-    NameError: undefined local variable or method `name' for main:Object
+
+    NameError: undefined local variable or method \`name' for main:Object
 
 The reason for this is the concept of message passing in Ruby. Side note: I do not
 have any experience with SmallTalk or Objective-C, which are based on the same concept,
@@ -58,9 +60,9 @@ she just declared a variable and wants to call a function to deal with it after 
 In Ruby,
 she would need to remember to pass the variable to the method, which
 would necessitate the understanding of scope. She would need to understand 
-the reason a phrase like "undefined method `<' for nil:NilClass".
+the reason a phrase like "undefined method \`<' for nil:NilClass".
 
-Indeed, in Python, you can do "None < 3" and get "True".
+Indeed, in Python, you can do `None < 3` and get `True`.
 
 To a certain degree, Ruby requires some hand-holding because people defining classes
 would not understand why they need to use attr_accessor in order to access
