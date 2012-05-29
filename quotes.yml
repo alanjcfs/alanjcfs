@@ -1,0 +1,11 @@
+---
+db:
+- !ruby/struct:Quote
+  author: Charlie Gibbs
+  text: A database is a black hole into which you put your data.
+- !ruby/struct:Quote
+  author: Will Jessop
+  text: MySQL is truly the PHP of the database world.
+- !ruby/struct:Quote
+  author: Donald Knuth
+  text: Premature optimization is the root of all evil.
