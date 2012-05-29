@@ -7,7 +7,6 @@ tags: [python, ruby, object-oriented programming, OOP]
 ---
 {% include JB/setup %}
 
-# A difference between Python and Ruby
 One way in which the Python community and Ruby community views object orientation
 differently is in scope.
 
