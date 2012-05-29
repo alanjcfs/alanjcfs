@@ -22,15 +22,16 @@ In Python:
 In Ruby, however, you must pass the variable to the name (in IRB):
 
     variable = "Alan"
-     > def print_name name
-    ?>   print name
-     > end
-     > print variable
-     Alan => nil
+    def print_name name
+      puts name
+    end
+    print variable
+    Alan
+    => nil
 
 Otherwise, you would get
 
-    NameError: undefined local variable or method \`name' for main:Object
+    NameError: undefined local variable or method `name' for main:Object
 
 The reason for this is the concept of message passing in Ruby. Side note: I do not
 have any experience with SmallTalk or Objective-C, which are based on the same concept,
@@ -53,7 +54,7 @@ answers relating how Python (and I creatively re-interpret) was a multi-paradigm
 language. It was a procedural programming with object-oriented capability, but
 Ruby was an object-oriented language that, in the word of 
 [Spencer Rathbun](http://programmers.stackexchange.com/a/138655),
-"_masquerades_ as a procedural language." My examples above show it.
+\"_masquerades_ as a procedural language." My examples above show it.
 
 To a researcher who first takes up programming, Python might seem more intuitive -- 
 she just declared a variable and wants to call a function to deal with it after all.
