@@ -1,0 +1,10 @@
+{% if site.JB.ads.provider and page.ads != false %}
+
+{% case site.JB.ads.provider %}
+{% when "google" %}
+  {% include JB/ads-providers/google %}
+{% when "custom" %}
+  {% include custom/comments %}
+{% endcase %}
+
+{% endif %}

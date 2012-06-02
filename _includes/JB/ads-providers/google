@@ -1,0 +1,11 @@
+<script type="text/javascript"><!--
+google_ad_client = "{{ site.JB.ads.google.ad_client }}";
+/* atomsign */
+google_ad_slot = "{{ site.JB.ads.google.ad_slot }}";
+google_ad_width = {{ site.JB.ads.google.ad_width }};
+google_ad_height = {{ site.JB.ads.google.ad_height }};
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
