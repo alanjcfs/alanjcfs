@@ -100,6 +100,7 @@ JB :
     provider : google 
     google : 
         tracking_id : 'UA-2331179-5'
+        domain_name : 'atomsign.net'
     getclicky :
       site_id : 
     mixpanel :
